@@ -1,0 +1,1 @@
+export(SesClassif, SesIndex, SesReport, print.SesIndex, print.SesClassif, plot.SesIndex, plot.SesClassif)
